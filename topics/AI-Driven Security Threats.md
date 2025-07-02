@@ -6,7 +6,7 @@ As artificial intelligence continues to grow in capability and accessibility, it
 ## How Attackers Are Using AI
 
 ### 1. Automated Phishing Campaigns
-AIs can generate highly personalized phishing emails at scale by scraping public information from social media or past data breaches. These emails mimic real language patterns and are harder for users and filters to detect.
+AI can generate highly personalized phishing emails at scale by scraping public information from social media or past data breaches. These emails mimic real language patterns and are harder for users and filters to detect.
 
 ### 2. Malware Evasion
 AI can help malware adjust its behavior dynamically based on the environment it's in, evading detection tools like antivirus and EDR (Endpoint Detection and Response) systems.
